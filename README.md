@@ -1,7 +1,7 @@
 <h1 align="center">Olá, eu sou o Isaque Santana Paixão! 👋</h1>
 
 <p align="center">
-  🎓 Estudante de TI na FIAP | 👨‍💻 Desenvolvimento & Suporte | 🚀 Buscando Estágio
+  🎓 Estudante de TI na FIAP | 👨‍💻 Desenvolvimento & Suporte | 🚀 Estagiário na Empresa Hyperativa
 </p>
 
 ---
